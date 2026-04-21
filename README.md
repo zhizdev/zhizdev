@@ -1,16 +1,15 @@
-## Hi there 👋
+z (zhizhuo zhou)
 
-<!--
-**zhizdev/zhizdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+founder  
+[bonemeal](https://bonemeal.ai/) / AI Growth Engineer  
+[fishaudio](https://fish.audio/) / prev co-founder fish audio  
+[komiko](https://komiko.app/) / prev co-founder komiko  
 
-Here are some ideas to get you started:
+researcher  
+[mvd-fusion](https://mvd-fusion.github.io/) / multi-view object generation  
+[sparsefusion](https://sparsefusion.github.io/) / nerf object reconstruction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+places  
+palo alto / stanford cs phd, dropout   
+pittsburgh / cmu msr  
+ann arbor / umich cs  

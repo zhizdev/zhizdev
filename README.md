@@ -9,11 +9,11 @@ researcher
 [mvd-fusion](https://mvd-fusion.github.io/) / multi-view object generation  
 [sparsefusion](https://sparsefusion.github.io/) / nerf object reconstruction
 
-volunteering  
-ai4all cmu / lead TA  
-ai4all michigan / project mentor  
-
 places  
 palo alto / stanford cs phd, dropout   
 pittsburgh / cmu msr  
 ann arbor / umich cs  
+
+volunteering  
+ai4all cmu / lead TA  
+ai4all michigan / project mentor  

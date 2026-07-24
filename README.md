@@ -1,7 +1,8 @@
 z (zhizhuo zhou)
 
 founder  
-[bonemeal](https://bonemeal.ai/) / AI Growth Engineer  
+[bonemeal](https://bonemeal.ai) / AI Growth Engineer  
+[buzzsearch](https://buzzsearch.ai) / Customer research for UGC
 [fishaudio](https://fish.audio/) / prev co-founder fish audio  
 [komiko](https://komiko.app/) / prev co-founder komiko  
 
